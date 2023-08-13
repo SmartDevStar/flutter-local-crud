@@ -1,0 +1,19 @@
+{
+    "result": [
+        {
+            "username": "Rohan01",
+            "email": "rohan01@gmail.com",
+            "uid": "1"
+        },
+        {
+            "username": "Rohan02",
+            "email": "rohan02@gmail.com",
+            "uid": "2"
+        },
+        {
+            "username": "Rohan03",
+            "email": "rohan03@gmail.com",
+            "uid": "3"
+        }
+    ]
+}
