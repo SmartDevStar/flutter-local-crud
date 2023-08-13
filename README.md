@@ -1,10 +1,5 @@
-# flutter_movie_star
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
+# About
+A Flutter project detailing how to implement an application using clean architecture with Riverpod
 
 A few resources to get you started if this is your first Flutter project:
 
